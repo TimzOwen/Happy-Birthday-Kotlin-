@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">birthday card</string>
+    <string name="happy_birthday_kotlin">Happy Birthday Kotlin</string>
+    <string name="form_dsc">From DSC</string>
 </resources>
